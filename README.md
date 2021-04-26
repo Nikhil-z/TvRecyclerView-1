@@ -123,10 +123,6 @@ implementation 'com.owen:tv-recyclerview:3.0.0'
 
 ------
 
-扣 扣 群：484790001（注：加群时请写明来源及目的）
-
-![](https://github.com/zhousuqiang/TvRecyclerView/blob/master/images/qq.png)
-
 ### 其它作品
 
 焦点框框架[TvFocusBorder](https://github.com/zhousuqiang/TvFocusBorder)
@@ -135,4 +131,3 @@ Tab框架[TvTabLayout](https://github.com/zhousuqiang/TvTabLayout)
 
 Tv控件[TvWidget](https://github.com/zhousuqiang/TvWidget)
 
-作者 [owen](https://github.com/zhousuqiang)
